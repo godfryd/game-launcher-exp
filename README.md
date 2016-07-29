@@ -13,3 +13,9 @@ To run demo go into the folder e.g. love and invoke:
 ```bash
 $ make play
 ```
+
+Then a window should open and it should look like this screenshot:
+
+[screenshot](screenshot.png)
+
+Try to use arrow keys to navigate.
