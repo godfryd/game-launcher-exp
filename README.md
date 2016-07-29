@@ -16,6 +16,6 @@ $ make play
 
 Then a window should open and it should look like this screenshot:
 
-[screenshot](screenshot.png)
+![screenshot](screenshot.png)
 
 Try to use arrow keys to navigate.
